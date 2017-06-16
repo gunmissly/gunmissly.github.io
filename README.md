@@ -1,44 +1,33 @@
-Worthy - Free Bootstrap Template
-=======================================================================
+# Developer/Designer Page Layout Concept
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
-You can use it for corporate, business and agency webpages as well as 
-portfolio and personal webpages.
+An experimental page layout concept with a developer/designer theme and a special effect.
 
-If you like the template and find it useful, please help us spread the word :-)
+![Developer/Designer Page Layout Concept 800x600](https://tympanus.net/codrops/wp-content/uploads/2017/04/DeveloperDesignerPageLayout_800x600.jpg)
 
-- Theme version: v1.0
-- Release Date: 13 Nov 2014
-- Author: HtmlCoder (http://htmlcoder.me)
-- Contact: http://htmlcoder.me/contact
+[Article on Codrops](https://tympanus.net/codrops/?p=30725)
 
-Live Preview
-=======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+[Demo](http://tympanus.net/Development/DeveloperDesignerPageLayout/)
 
-License
-=======================================================================
-Worthy is released under the Creative Commons Attribution 3.0 License
-https://creativecommons.org/licenses/by/3.0/
+This demo is kindly sponsored by [Hired](http://synd.co/2p3Fi7n).
 
-Credits
-=======================================================================
+## Credits
 
-Demo images
-------------------------------------------------------
-- Unsplash by Crew - http://unsplash.com/
+- Image from [Unsplash.com](https://unsplash.com/) by Janko Ferlic
+- [anime.js](http://anime-js.com/) by Julian Garnier
+- Code image made with [Text-Image.com](http://www.text-image.com/)
+- [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
+- [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
 
-Fonts
-------------------------------------------------------
-- Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
-- Google Fonts - http://www.google.com/fonts
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
 
-Resources
-------------------------------------------------------
-- Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
-- jQuery - https://jquery.org/
-- jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
-- Modernizr - http://modernizr.com/
-- Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
-- Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
-- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
+## Misc 
+
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+
+[© Codrops 2017](http://www.codrops.com)
+
+
+
+
+
